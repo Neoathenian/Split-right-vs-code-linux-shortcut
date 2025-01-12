@@ -1,5 +1,5 @@
 # Split-right-vs-code-linux-shortcut
-Instructions on how to add the split right vs code shortcut like in windows (Ctrl+º)(a.k.a Ctrl+\).
+Instructions on how to add the split right vs code shortcut like in windows (Ctrl+º)(a.k.a Ctrl+\\).
 
 ## Instructions:
 1. Press Ctrl+Shift+P
